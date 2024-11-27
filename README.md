@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santiagojavier99
-- 👀 I’m interested in Physics and Math
-- 🌱 I’m currently learning algorithms to price options and, more generally, derivatives
+- 👀 I’m interested in Physics and Mathematical Physics
+- 🌱 I’m currently learning algorithms to simulate Brownian Motions and its applications to finance
 - 📫 If you want to get in touch with me you can reach me at: santiagojavier@libero.it
 
 <!---
